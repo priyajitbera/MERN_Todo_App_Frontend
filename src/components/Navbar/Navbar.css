@@ -1,0 +1,36 @@
+.navbar{
+    background-color: orange;
+    /* border: 2px solid black; */
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.navbar-profile{
+    font-size: medium;
+    align-self: flex-end;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.navbar-heading{
+    align-self: center;
+}
+.navbar-profile-logoutbtn{
+    padding: 0px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.navbar-profile-logoutbtn:hover{
+    background-color: orangered;
+}

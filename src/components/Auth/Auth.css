@@ -1,0 +1,22 @@
+.auth{
+    /* border: 1px solid black; */
+    height: 90%;
+}
+.auth-toggle{
+    font-weight: 700;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+}
+.auth-toggle-btn{
+    border: none;
+    font-weight: 700;
+    font-size: large;
+    text-decoration: underline;
+    background-color: white;
+}
+.auth-toggle-btn:hover{
+    color: blue;
+}
