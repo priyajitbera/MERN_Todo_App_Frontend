@@ -1,17 +1,7 @@
 ## This is the fronted of my Todo Applicationg built with React.js
 
-# Getting Started with Create React App
+### Quick look at the design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![home_r](https://user-images.githubusercontent.com/65390113/167319900-c7d69bc8-cbdf-442c-96f4-48278410cd42.png)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![registration_r](https://user-images.githubusercontent.com/65390113/167319943-497b4d36-0ebf-4552-aa94-eba222fb7ef0.png) ![login_r](https://user-images.githubusercontent.com/65390113/167319947-c88347f1-94b4-4f98-a875-5c5cc9e57504.png)
